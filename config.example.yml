@@ -1,0 +1,3 @@
+pipeline:
+  name: example-pipeline
+  stage: dev
