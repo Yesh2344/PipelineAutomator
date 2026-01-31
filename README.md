@@ -42,3 +42,5 @@ The project dependencies are listed in the `requirements.txt` file.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request with your changes and a brief description of the updates.
+
+Additional details added.
