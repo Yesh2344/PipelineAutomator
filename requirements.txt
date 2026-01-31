@@ -1,3 +1,4 @@
 git
 bash
 yq
+# Updated dependencies
